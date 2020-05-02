@@ -1,0 +1,8 @@
+pca10040/blank/ses/Output
+#*.o
+#*.d
+#*.hex
+#*.map
+*.emSession
+*.jlink
+
